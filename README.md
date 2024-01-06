@@ -1,8 +1,14 @@
-### Helloust 👋
+# Helloust 👋
+
+I'm currently studying to become CS-engineer.
+
+## 
 
 ## Stuff I like
-- Chocolate
-- Vidya Gaem
+- 
+
+
+
 <!--
 **oksuriini/oksuriini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
