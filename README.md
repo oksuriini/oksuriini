@@ -1,11 +1,29 @@
 # Helloust 👋
 
-I'm currently studying to become CS-engineer.
+I'm currently studying to become CS-engineer. I'm generally eager to learn new frameworks and always interested of a challenging task.
+I'd like to describe myself as more backend oriented as I prefer to make things work like a clockwork, but I also like to dabble on making nice webdesigns.
 
-## 
+## Skills
 
-## Stuff I like
-- 
+- Linux (Linux user 🐧)
+- Docker & Kubernetes
+- Azure & Google Cloud services
+- Programming Languages:
+    - Golang (My beloved <3)
+    - Typescript & Javascript:
+        - Angular
+        - React & little React Native
+        - D3
+    - Python
+    - Somewhat .NET & C# (ASP.NET)
+- SQL and NoSQL databases
+- Shellscripting (nothing too fancy)
+
+## About me
+
+On my freetime I like to read manga, cook and play video games... oh yeah, and also code.
+I like to say I'm not very talkative, but when I find really interesting topic to talk about, then I *REALLY* like to talk about it, maybe a bit too much.
+
 
 
 
