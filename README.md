@@ -15,8 +15,8 @@ I'd like to describe myself as more backend oriented as I prefer to make things 
         - React & little React Native
         - D3
     - Python
+    - .NET & C# (ASP.NET Core)
     - Rust (currently interested)
-    - Somewhat .NET & C# (ASP.NET)
 - SQL and NoSQL databases
 - Shellscripting (nothing too fancy)
 
