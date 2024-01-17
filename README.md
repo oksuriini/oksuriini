@@ -7,7 +7,7 @@ I'd like to describe myself as more backend oriented as I prefer to make things 
 
 - Linux (Linux user 🐧)
 - Docker & Kubernetes & Ansible
-- Azure & Google Cloud services
+- Azure, AWS & Google Cloud services
 - Programming Languages:
     - Golang (My beloved <3)
     - Typescript & Javascript:
