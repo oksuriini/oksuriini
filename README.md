@@ -6,7 +6,7 @@ I'd like to describe myself as more backend oriented as I prefer to make things 
 ## Skills
 
 - Linux (Linux user 🐧)
-- Docker & Kubernetes & Ansible
+- Docker & Kubernetes, Ansible, Terraform
 - Azure, AWS & Google Cloud services
 - Programming Languages:
     - Golang (My beloved <3)
