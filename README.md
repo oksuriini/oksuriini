@@ -9,14 +9,13 @@ I'd like to describe myself as more backend oriented as I prefer to make things 
 - Docker & Kubernetes, Ansible, Terraform
 - Azure, AWS & Google Cloud services
 - Programming Languages:
-    - Golang (My beloved <3)
+    - Golang
     - Typescript & Javascript:
         - Angular
         - React & little React Native
-        - D3
+        - Node and Express
     - Python
     - .NET & C# (ASP.NET Core)
-    - Rust (currently interested)
 - SQL and NoSQL databases
 - Shellscripting (nothing too fancy)
 
